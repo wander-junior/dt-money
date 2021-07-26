@@ -1,5 +1,5 @@
 # Sobre
-Essa é uma aplicação para controle de finanças pessoais. Desenvolvido durante o primeiro capítulo do Bootcamp Ignite React da RocketSeat.
+Essa é uma aplicação para controle de finanças pessoais. Desenvolvido durante o segundo capítulo do Bootcamp Ignite React da RocketSeat.
 
 # Tecnologias usadas :computer:
 - React
